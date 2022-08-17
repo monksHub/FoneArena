@@ -1,22 +1,47 @@
 {
     "Products":[
         {
-            "name":"iphone 12",
-            "price":55000,
-            "storage":"64gb",
-            "image":"https://www.91-img.com/gallery_images_uploads/3/d/3df5ca6a9b470f715b085991144a5b76e70da975.JPG?tr=h-550,w-0,c-at_max"
+            "id":1,
+            "pname":"Asus Rog III",
+            "price":74999,
+            "image":"https://rukminim2.flixcart.com/image/416/416/ky7lci80/mobile/g/v/x/-original-imagahvnvgk4nwew.jpeg?q=70"
         },
         {
-            "name":"iphone 13",
-            "price":65000,
-            "storage":"128gb",
-            "image":"https://www.91-img.com/gallery_images_uploads/f/b/fba53fe25113fa77f4d965e2e23ac23ac09c9821.jpg?tr=h-550,w-0,c-at_max"
+            "id":2,
+            "pname":"Iphone 13 pro",
+            "price":129990,
+            "image":"https://www.reliancedigital.in/medias/Apple-iphone-13-Pro-Smart-phone-Contentset-24?context=bWFzdGVyfGltYWdlc3w3NTIyfGltYWdlL2pwZWd8aW1hZ2VzL2hkMC9oNzYvOTYzNDMyNjY3NTQ4Ni5qcGd8OTMzYWFiMjFkODVhN2M4Njg0MjgxODI1NmE3MjlhODZmYmQwNDgxNTc4NzE5ZWM2NTdmYTc1NmQzMTI5ZDlkNA"
         },
         {
-            "name":"iphone 11",
-            "price":45000,
-            "storage":"64gb",
-            "image":"https://www.91-img.com/gallery_images_uploads/0/3/03ad9079651a253907da08ae6cd9a1c47d3d1977.jpg?tr=h-550,w-0,c-at_max"
-        }
+            "id":3,
+            "pname":"Iphone 12 mini",
+            "price":44599,
+            "image":"https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/r/2/r/apple-iphone-12-mini-dummyapplefsn-original-imafwgbfcswp9fh5.jpeg?q=70"
+        },
+        {
+            "id":4,
+            "pname":"MI note 10T",
+            "price":16499,
+            "image":"https://rukminim2.flixcart.com/image/416/416/l0igvww0/mobile/y/p/p/-original-imagcaawcdhbdemc.jpeg?q=70"
+        },
+        {
+            "id":5,
+            "pname":"Samsung F22",
+            "price":13499,
+            "image":"https://rukminim2.flixcart.com/image/416/416/kqqykcw0/mobile/j/j/h/galaxy-f22-sm-e225flbdins-samsung-original-imag4z99gdxctpnx.jpeg?q=70"
+        },
+        {
+            "id":6,
+            "pname":"Realme GT-3",
+            "price":27999,
+            "image":"https://rukminim2.flixcart.com/image/416/416/l27wtjk0/mobile/y/s/m/-original-imagdm3t3rcfyamc.jpeg?q=70"
+        },
+        {
+            "id":7,
+            "pname":"Realme c11",
+            "price":7499,
+            "image":"https://rukminim2.flixcart.com/image/416/416/kcdp5zk0/mobile/x/4/f/realme-c11-rmx2185-original-imaftjf8tcyzmwh8.jpeg?q=70"
+        }      
     ]
 }
+
