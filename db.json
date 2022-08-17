@@ -1,0 +1,22 @@
+{
+    "Products":[
+        {
+            "name":"iphone 12",
+            "price":55000,
+            "storage":"64gb",
+            "image":"https://www.91-img.com/gallery_images_uploads/3/d/3df5ca6a9b470f715b085991144a5b76e70da975.JPG?tr=h-550,w-0,c-at_max"
+        },
+        {
+            "name":"iphone 13",
+            "price":65000,
+            "storage":"128gb",
+            "image":"https://www.91-img.com/gallery_images_uploads/f/b/fba53fe25113fa77f4d965e2e23ac23ac09c9821.jpg?tr=h-550,w-0,c-at_max"
+        },
+        {
+            "name":"iphone 11",
+            "price":45000,
+            "storage":"64gb",
+            "image":"https://www.91-img.com/gallery_images_uploads/0/3/03ad9079651a253907da08ae6cd9a1c47d3d1977.jpg?tr=h-550,w-0,c-at_max"
+        }
+    ]
+}
