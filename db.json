@@ -1,49 +1,49 @@
 {
     "Products":[
         {
-            "id":"p1",
+            "id":1,
             "pname":"Asus Rog III",
             "price":74999,
             "mrp":79999,
             "image":"https://rukminim2.flixcart.com/image/416/416/ky7lci80/mobile/g/v/x/-original-imagahvnvgk4nwew.jpeg?q=70"
         },
         {
-            "id":"p2",
+            "id":2,
             "pname":"Iphone 13 pro",
             "price":129990,
             "mrp":14999,
             "image":"https://www.reliancedigital.in/medias/Apple-iphone-13-Pro-Smart-phone-Contentset-24?context=bWFzdGVyfGltYWdlc3w3NTIyfGltYWdlL2pwZWd8aW1hZ2VzL2hkMC9oNzYvOTYzNDMyNjY3NTQ4Ni5qcGd8OTMzYWFiMjFkODVhN2M4Njg0MjgxODI1NmE3MjlhODZmYmQwNDgxNTc4NzE5ZWM2NTdmYTc1NmQzMTI5ZDlkNA"
         },
         {
-            "id":"p3",
+            "id":3,
             "pname":"Iphone 12 mini",
             "price":44599,
             "mrp":49999,
             "image":"https://rukminim2.flixcart.com/image/416/416/kg8avm80/mobile/r/2/r/apple-iphone-12-mini-dummyapplefsn-original-imafwgbfcswp9fh5.jpeg?q=70"
         },
         {
-            "id":"p4",
+            "id":4,
             "pname":"MI note 10T",
             "price":16499,
             "mrp":19999,
             "image":"https://rukminim2.flixcart.com/image/416/416/l0igvww0/mobile/y/p/p/-original-imagcaawcdhbdemc.jpeg?q=70"
         },
         {
-            "id":"p5",
+            "id":5,
             "pname":"Samsung F22",
             "price":13499,
             "mrp":14999,
             "image":"https://rukminim2.flixcart.com/image/416/416/kqqykcw0/mobile/j/j/h/galaxy-f22-sm-e225flbdins-samsung-original-imag4z99gdxctpnx.jpeg?q=70"
         },
         {
-            "id":"p6",
+            "id":6,
             "pname":"Realme GT-3",
             "price":27999,
             "mrp":29999,
             "image":"https://rukminim2.flixcart.com/image/416/416/l27wtjk0/mobile/y/s/m/-original-imagdm3t3rcfyamc.jpeg?q=70"
         },
         {
-            "id":"p7",
+            "id":7,
             "pname":"Realme c11",
             "price":7499,
             "mrp":7999,
